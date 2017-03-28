@@ -1,0 +1,26 @@
+
+Outpost.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+OutpostDestroyed_30x1
+  rotate: false
+  xy: 1, 153
+  size: 4260, 150
+  orig: 4260, 150
+  offset: 0, 0
+  index: -1
+OutpostBurning_20x1
+  rotate: false
+  xy: 1, 1
+  size: 2580, 150
+  orig: 2580, 150
+  offset: 0, 0
+  index: -1
+OutpostAlive
+  rotate: false
+  xy: 2583, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
